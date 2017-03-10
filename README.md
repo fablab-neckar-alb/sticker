@@ -2,6 +2,16 @@
 
 die sticker vom fablab neckar-alb e.v.
 
+![giveaway](https://raw.githubusercontent.com/fablab-neckar-alb/sticker/master/giveaway.png)
+
+![instructed](https://raw.githubusercontent.com/fablab-neckar-alb/sticker/master/instructed.png)
+
+![owners_only](https://raw.githubusercontent.com/fablab-neckar-alb/sticker/master/owners_only.png)
+
+![public](https://raw.githubusercontent.com/fablab-neckar-alb/sticker/master/public.png)
+
+![wtf](https://raw.githubusercontent.com/fablab-neckar-alb/sticker/master/wtf.png)
+
 # lizenz
 
 public domain
